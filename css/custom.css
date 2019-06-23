@@ -80,3 +80,15 @@ p {
     padding: 10px;
     color: white;
 }
+@media (max-width: 640px) {
+    .cuteDog {
+        width: 350px;
+        height: 450px;
+    }
+}
+@media (max-width: 753px) {
+    
+}
+@media (max-width: 980px) {
+    
+}
