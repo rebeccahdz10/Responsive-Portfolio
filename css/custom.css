@@ -85,6 +85,14 @@ p {
         width: 350px;
         height: 450px;
     }
+    .container {
+     margin: 29% auto;
+    }
+    .myName {
+        float: top;
+        width: 100%;
+        text-align: center;
+    }
 }
 @media (max-width: 753px) {
     
