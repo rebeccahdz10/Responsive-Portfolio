@@ -81,6 +81,13 @@ p {
     color: white;
 }
 @media (max-width: 640px) {
+    #navbarNav {
+        display: horizontal;
+    }
+    .aboutLink .portLink .contactLink {
+        float: left;
+        padding: 0px;
+    }
     .cuteDog {
         width: 350px;
         height: 450px;
